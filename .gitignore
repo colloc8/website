@@ -117,6 +117,7 @@ local.blt.yml
 oauth_keys/
 
 error_log
+prod_db.php
 
 # env-file
 /.env*
