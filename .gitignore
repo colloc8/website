@@ -116,6 +116,8 @@ local.blt.yml
 # oauth keys
 oauth_keys/
 
+error_log
+
 # env-file
 /.env*
 /.editorconfig
