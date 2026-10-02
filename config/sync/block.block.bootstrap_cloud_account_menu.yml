@@ -12,8 +12,8 @@ _core:
   default_config_hash: PZVcj-3RbsQUFnhES05bjolGVW1vUZYNnEMpTsBiA7I
 id: bootstrap_cloud_account_menu
 theme: bootstrap_cloud
-region: navigation_collapsible
-weight: 11
+region: navigation
+weight: -3
 provider: null
 plugin: 'system_menu_block:account'
 settings:

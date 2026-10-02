@@ -1,6 +1,6 @@
 uuid: 9bd09dfc-f647-4f3c-bb17-6940b8abaa54
 langcode: en
-status: true
+status: false
 dependencies:
   theme:
     - bootstrap5
@@ -8,7 +8,7 @@ _core:
   default_config_hash: MBqG1B5mr5-fPSCDyTR6z2zVTRxZ10XeS_pAw6C7za4
 id: bootstrap5_local_actions
 theme: bootstrap5
-region: content
+region: header
 weight: -2
 provider: null
 plugin: local_actions_block

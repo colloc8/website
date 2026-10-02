@@ -8,8 +8,8 @@ _core:
   default_config_hash: E4vlPzsQpl3bzgJk_6P98nvr811kxuiqAreXCQJI20c
 id: bootstrap_cloud_local_tasks
 theme: bootstrap_cloud
-region: header
-weight: 10
+region: content
+weight: -4
 provider: null
 plugin: local_tasks_block
 settings:

@@ -1,6 +1,6 @@
 uuid: f6362a37-5027-44a7-b2e7-31aec7333f3a
 langcode: en
-status: true
+status: false
 dependencies:
   module:
     - system
@@ -10,7 +10,7 @@ _core:
   default_config_hash: nuW1Z5MdvzbCCEZ9RQojaEWB6Zni32zTq-v5OWbS2sc
 id: bootstrap5_branding
 theme: bootstrap5
-region: nav_branding
+region: header
 weight: -6
 provider: null
 plugin: system_branding_block

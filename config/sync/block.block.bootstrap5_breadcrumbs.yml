@@ -1,6 +1,6 @@
 uuid: ece847f3-7410-462a-b0a6-8ca96fa885e8
 langcode: en
-status: true
+status: false
 dependencies:
   module:
     - system
@@ -10,7 +10,7 @@ _core:
   default_config_hash: VShtwe72J2j41BJzApoNbs8l554EpngM5RTObxM7yiw
 id: bootstrap5_breadcrumbs
 theme: bootstrap5
-region: breadcrumb
+region: header
 weight: 0
 provider: null
 plugin: system_breadcrumb_block

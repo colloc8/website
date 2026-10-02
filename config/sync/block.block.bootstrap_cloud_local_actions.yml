@@ -8,8 +8,8 @@ _core:
   default_config_hash: 7fzMK0wpCp9AA4oaIcDG6mlqKUkhgVc7c0t2krN7RlI
 id: bootstrap_cloud_local_actions
 theme: bootstrap_cloud
-region: header
-weight: 20
+region: content
+weight: -5
 provider: null
 plugin: local_actions_block
 settings:

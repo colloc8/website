@@ -1,6 +1,6 @@
 uuid: c6cecfaa-2255-4057-b9e1-32d5e8f9c1dc
 langcode: en
-status: true
+status: false
 dependencies:
   module:
     - help
@@ -10,7 +10,7 @@ _core:
   default_config_hash: S0Y16qIQfKiOEzWlddOGk3u_BKwAruAheA8VVFfGbLc
 id: bootstrap5_help
 theme: bootstrap5
-region: content
+region: header
 weight: -3
 provider: null
 plugin: help_block

@@ -1,6 +1,6 @@
 uuid: 7a9b9a5f-2704-440e-aac3-ec74ccb8fa2c
 langcode: en
-status: true
+status: false
 dependencies:
   module:
     - system
@@ -10,7 +10,7 @@ _core:
   default_config_hash: 2_xxaOb8b_0AUgYFdJLxIBDDwufyh6YozhGfBd97p38
 id: bootstrap5_powered_by_drupal
 theme: bootstrap5
-region: footer
+region: header
 weight: 0
 provider: null
 plugin: system_powered_by_block

@@ -8,8 +8,8 @@ _core:
   default_config_hash: M-Jxl6ISUjlEcpZkTdwAHt7JGscZcAgxshRq7PBUc7U
 id: bootstrap_cloud_page_title
 theme: bootstrap_cloud
-region: header
-weight: 0
+region: content
+weight: -2
 provider: null
 plugin: page_title_block
 settings:

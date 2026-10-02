@@ -1,6 +1,6 @@
 uuid: 8c827dd9-e346-476f-bf49-51ca6058890d
 langcode: en
-status: true
+status: false
 dependencies:
   config:
     - system.menu.main
@@ -12,7 +12,7 @@ _core:
   default_config_hash: Fm7sDs2U1u99MaVOZEZqa-QOJrrUiQMWJb1jMozYO48
 id: bootstrap5_main_navigation
 theme: bootstrap5
-region: nav_main
+region: header
 weight: 0
 provider: null
 plugin: 'system_menu_block:main'
