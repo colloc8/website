@@ -1,15 +1,15 @@
-uuid: abb43f44-fe0b-4f6f-baba-8a78fbdb0a69
+uuid: 1cd9df9a-4096-45bc-a28d-add0dac3db6c
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - olivero
+    - bootstrap_cloud
 _core:
-  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
-id: olivero_content
-theme: olivero
+  default_config_hash: edSlWI6H1v6g2yl-CYNl9bl6OgtDYjhi3bsAmFDvn6k
+id: bootstrap_cloud_content
+theme: bootstrap_cloud
 region: content
 weight: 0
 provider: null

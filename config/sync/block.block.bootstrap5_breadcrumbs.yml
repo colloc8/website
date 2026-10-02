@@ -1,15 +1,15 @@
-uuid: 4e05041f-f09c-4360-a40e-a111358c70a8
+uuid: ece847f3-7410-462a-b0a6-8ca96fa885e8
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - olivero
+    - bootstrap5
 _core:
-  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
-id: olivero_breadcrumbs
-theme: olivero
+  default_config_hash: VShtwe72J2j41BJzApoNbs8l554EpngM5RTObxM7yiw
+id: bootstrap5_breadcrumbs
+theme: bootstrap5
 region: breadcrumb
 weight: 0
 provider: null

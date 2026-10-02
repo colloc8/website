@@ -34,11 +34,14 @@ module:
   system: 0
   taxonomy: 0
   text: 0
+  twbstools: 0
   user: 0
   views_ui: 0
   views: 10
   standard: 1000
 theme:
-  olivero: 0
   claro: 0
+  stable9: 0
+  bootstrap5: 0
+  bootstrap_cloud: 0
 profile: standard

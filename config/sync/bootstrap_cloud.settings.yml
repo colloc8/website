@@ -1,0 +1,46 @@
+_core:
+  default_config_hash: s_nBcREjuLcHiVlz2Qk5xxJNlBr1SJA6hfXAaXv43Es
+favicon:
+  mimetype: image/vnd.microsoft.icon
+  path: ''
+  url: /themes/contrib/bootstrap_cloud/favicon.ico
+  use_default: false
+features:
+  comment_user_picture: true
+  comment_user_verification: true
+  favicon: false
+  node_user_picture: true
+logo:
+  path: ''
+  url: ''
+  use_default: false
+schemas:
+  bootstrap: 8000
+  bootstrap_cloud: 8000
+table_responsive: '-1'
+navbar_position: fixed-top
+cdn_theme: bootstrap
+cdn_cache_ttl_versions: '604800'
+cdn_cache_ttl_themes: '604800'
+cdn_cache_ttl_assets: '0'
+cdn_cache_ttl_library: '0'
+reset_http_request_cache: ''
+table: ''
+fluid_container: 1
+tooltip_placement: 'auto top'
+font_size: small_text
+line_spacing: normal_lines
+font_family: lucida_grande
+theme_color: blue
+b5_body_schema: light
+b5_body_bg_schema: light
+b5_navbar_schema: light
+b5_navbar_bg_schema: light
+b5_footer_schema: light
+b5_footer_bg_schema: light
+b5_top_container: 'container-fluid m-0 p-0'
+b5_top_container_config: ''
+subtheme_folder: themes/custom
+subtheme_name: 'B5 subtheme'
+subtheme_machine_name: b5subtheme
+b5_theme_mode: light
