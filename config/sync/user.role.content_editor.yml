@@ -3,10 +3,12 @@ langcode: en
 status: true
 dependencies:
   config:
+    - filter.format.markdown
     - taxonomy.vocabulary.tags
   module:
     - contextual
     - file
+    - filter
     - navigation
     - node
     - path
@@ -30,6 +32,7 @@ permissions:
   - 'delete own files'
   - 'edit terms in tags'
   - 'revert all revisions'
+  - 'use text format markdown'
   - 'view all revisions'
   - 'view own unpublished content'
   - 'view the administration theme'

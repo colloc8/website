@@ -1,0 +1,28 @@
+uuid: 9fde4cd5-048d-41d4-8444-556f5ab0ced5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.documentation.field_body
+    - node.type.documentation
+  module:
+    - text
+    - user
+id: node.documentation.default
+targetEntityType: node
+bundle: documentation
+mode: default
+content:
+  field_body:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden: {  }
