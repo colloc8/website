@@ -5,6 +5,7 @@ dependencies:
   config:
     - rest.resource.create_entity
   module:
+    - key_auth
     - remote_entity_creation
     - rest
 id: ai_bot
@@ -14,3 +15,5 @@ is_admin: false
 permissions:
   - create_entity.create
   - 'restful post create_entity'
+  - 'use key authentication'
+  - 'view own auth keys'

@@ -3,7 +3,6 @@ _core:
 module:
   announcements_feed: 0
   automated_cron: 0
-  basic_auth: 0
   big_pipe: 0
   block: 0
   block_content: 0
@@ -21,6 +20,7 @@ module:
   filter: 0
   help: 0
   image: 0
+  key_auth: 0
   layout_builder: 0
   layout_discovery: 0
   link: 0

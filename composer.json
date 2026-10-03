@@ -21,6 +21,7 @@
         "drupal/core-project-message": "^11.4",
         "drupal/core-recipe-unpack": "^11.4",
         "drupal/core-recommended": "^11.4",
+        "drupal/key_auth": "^2.2",
         "drupal/markdown": "^3.1",
         "drupal/mysql57": "^1.0",
         "drupal/remote_entity_creation": "^1.0@alpha",

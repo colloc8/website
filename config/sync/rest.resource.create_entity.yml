@@ -1,13 +1,13 @@
-uuid: 9ec5b02b-16d5-4936-b614-bcd8f46a9128
+uuid: 5c9a8c3b-925b-4e0e-bee0-c26274e340ac
 langcode: en
 status: true
 dependencies:
   module:
-    - basic_auth
+    - key_auth
     - remote_entity_creation
     - serialization
 _core:
-  default_config_hash: SM2F0rESe4RBFa7ws8BCZ29RR7qP23DqdZcO5bVQQ3M
+  default_config_hash: 1YnWT8t76Mft0XXjIlXXTmxybZSu_l7bYknH1Z7Wj7w
 id: create_entity
 plugin_id: create_entity
 granularity: resource
@@ -17,4 +17,4 @@ configuration:
   formats:
     - json
   authentication:
-    - basic_auth
+    - key_auth

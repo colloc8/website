@@ -12,8 +12,8 @@ _core:
   default_config_hash: mLtFcFoBKjNa1bK4l8koQxJ5dmjSGBYg5IEiv30I6pQ
 id: bootstrap_cloud_tools
 theme: bootstrap_cloud
-region: sidebar_first
-weight: -5
+region: content
+weight: -4
 provider: null
 plugin: 'system_menu_block:tools'
 settings:
