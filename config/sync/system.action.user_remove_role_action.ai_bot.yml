@@ -1,0 +1,14 @@
+uuid: d63e0019-edf0-49a7-89e7-99af05a1944e
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.ai_bot
+  module:
+    - user
+id: user_remove_role_action.ai_bot
+label: 'Remove the AI bot role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: ai_bot

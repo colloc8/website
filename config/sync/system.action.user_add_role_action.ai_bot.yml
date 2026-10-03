@@ -1,0 +1,14 @@
+uuid: 5590023a-9015-4224-9b18-7bc7e05556fd
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.ai_bot
+  module:
+    - user
+id: user_add_role_action.ai_bot
+label: 'Add the AI bot role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: ai_bot

@@ -1,0 +1,16 @@
+uuid: 0c87543c-585d-4839-a0e9-1d89508cfca2
+langcode: en
+status: true
+dependencies:
+  config:
+    - rest.resource.create_entity
+  module:
+    - remote_entity_creation
+    - rest
+id: ai_bot
+label: 'AI bot'
+weight: -8
+is_admin: false
+permissions:
+  - create_entity.create
+  - 'restful post create_entity'
