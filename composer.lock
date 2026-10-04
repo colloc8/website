@@ -1670,17 +1670,17 @@
         },
         {
             "name": "drupal/remote_entity_creation",
-            "version": "1.0.0-alpha2",
+            "version": "1.0.0-alpha3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/remote_entity_creation.git",
-                "reference": "1.0.0-alpha2"
+                "reference": "1.0.0-alpha3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/remote_entity_creation-1.0.0-alpha2.zip",
-                "reference": "1.0.0-alpha2",
-                "shasum": "24c50b5b4782e381d53aff4eb8f3f11d31ea8795"
+                "url": "https://ftp.drupal.org/files/projects/remote_entity_creation-1.0.0-alpha3.zip",
+                "reference": "1.0.0-alpha3",
+                "shasum": "420cc9b074105cb5a64164c5b4e63aa337ec7b2f"
             },
             "require": {
                 "drupal/core": "^11",
@@ -1689,8 +1689,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.0.0-alpha2",
-                    "datestamp": "1791067634",
+                    "version": "1.0.0-alpha3",
+                    "datestamp": "1791083234",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Project has not opted into security advisory coverage!"

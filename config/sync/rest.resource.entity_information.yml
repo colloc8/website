@@ -1,4 +1,4 @@
-uuid: ab4af2d4-2590-43e3-86a0-4b151d89e271
+uuid: 63058f55-6fc3-4386-bb16-d4a4ea115fb1
 langcode: en
 status: true
 dependencies:
@@ -7,13 +7,13 @@ dependencies:
     - remote_entity_creation
     - serialization
 _core:
-  default_config_hash: 1YnWT8t76Mft0XXjIlXXTmxybZSu_l7bYknH1Z7Wj7w
-id: create_entity
-plugin_id: create_entity
+  default_config_hash: OiDWoPirzDFXTHunya-4ASEXRtzmk11QDfgc8OIIeOA
+id: entity_information
+plugin_id: entity_information
 granularity: resource
 configuration:
   methods:
-    - POST
+    - GET
   formats:
     - json
   authentication:
